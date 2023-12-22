@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Rotary8)(type KiCad)(uri ${KIPRJMOD}/Rotary8.pretty)(options "")(descr ""))
+)
