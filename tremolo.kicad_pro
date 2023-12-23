@@ -1,5 +1,6 @@
 {
   "board": {
+    "3dviewports": [],
     "design_settings": {
       "defaults": {
         "board_outline_line_width": 0.049999999999999996,
@@ -121,7 +122,8 @@
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
-    "layer_presets": []
+    "layer_presets": [],
+    "viewports": []
   },
   "boards": [],
   "cvpcb": {
@@ -343,7 +345,7 @@
   "net_settings": {
     "classes": [
       {
-        "bus_width": 12.0,
+        "bus_width": 12,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -357,13 +359,15 @@
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6.0
+        "wire_width": 6
       }
     ],
     "meta": {
-      "version": 2
+      "version": 3
     },
-    "net_colors": null
+    "net_colors": null,
+    "netclass_assignments": null,
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
@@ -418,18 +422,6 @@
     [
       "0b4a96a2-bf10-4e32-96ec-f30d96cda1ff",
       ""
-    ],
-    [
-      "deb4304e-c110-458b-89fb-8e6ffbc1b966",
-      "tempo"
-    ],
-    [
-      "e303be1e-bbde-41ad-a3ef-a6f63a8ab7cb",
-      "level"
-    ],
-    [
-      "6c50faae-bebf-40c9-9a3e-7c3da5b70006",
-      "distort"
     ],
     [
       "0787e5d9-0ce1-4ed2-a731-c3d6b78aec4e",
