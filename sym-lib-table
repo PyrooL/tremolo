@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name TAPLFO)(type Legacy)(uri ${KIPRJMOD}/TAPLFO.lib)(options "")(descr ""))
+  (lib (name "TAPLFO")(type "Legacy")(uri "${KIPRJMOD}/TAPLFO.lib")(options "")(descr ""))
+  (lib (name "tremolo-rescue")(type "Legacy")(uri "${KIPRJMOD}/tremolo-rescue.lib")(options "")(descr ""))
 )
